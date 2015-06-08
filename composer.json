@@ -1,0 +1,31 @@
+{
+    "name": "ahnames/hidev-config",
+    "type": "project",
+    "description": "AHnames's config for HiDev",
+    "keywords": [
+        "ahnames",
+        "hidev",
+        "config"
+    ],
+    "homepage": "https://ahnames.com/hidev-config",
+    "license": "No license",
+    "support": {
+        "email": "support@ahnames.com",
+        "source": "https://github.com/ahnames/hidev-config",
+        "issues": "https://github.com/ahnames/hidev-config/issues",
+        "wiki": "https://github.com/ahnames/hidev-config/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "require": [],
+    "autoload": {
+        "psr-4": {
+            "ahnames\\hidev\\config\\": ""
+        }
+    }
+}
