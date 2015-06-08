@@ -1,0 +1,12 @@
+parent:
+    github:         ahnames/hidev-config
+
+package:
+    name:           hidev-config
+    namespace:      ahnames\hidev\config
+    label:          AHnamesHiDevConfig
+    title:          AHnames's config for HiDev
+    type:           project
+    keywords:       ahnames, hidev, config
+    year:           2015
+

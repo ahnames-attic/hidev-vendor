@@ -1,0 +1,12 @@
+vendor:
+    name:       ahnames
+    title:      AHnames
+    homepage:   https://ahnames.com/
+    email:      support@ahnames.com
+    authors:
+        'Andrii Vasyliev':
+            email:      sol@hiqdev.com
+            homepage:   https://hipanel.com/
+deps: all
+all:
+    deps: git, composer, LICENSE, README.md, CHANGELOG.md
