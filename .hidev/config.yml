@@ -7,5 +7,6 @@ package:
     keywords:       ahnames, hidev, config
     year:           2015
 
-parent:
+require:
+    ahnames/hidev-config:       "*@dev"
     ahnames/hidev-config-php:   "*@dev"

@@ -1,19 +1,19 @@
 {
     "name": "ahnames/hidev-config",
     "type": "project",
-    "description": "AHnames's config for HiDev",
+    "description": "AHnames general hidev config",
     "keywords": [
         "ahnames",
         "hidev",
         "config"
     ],
-    "homepage": "https://ahnames.com/hidev-config",
+    "homepage": "https://github.com//hidev-config",
     "license": "No license",
     "support": {
-        "email": "support@ahnames.com",
         "source": "https://github.com/ahnames/hidev-config",
         "issues": "https://github.com/ahnames/hidev-config/issues",
-        "wiki": "https://github.com/ahnames/hidev-config/wiki"
+        "wiki": "https://github.com/ahnames/hidev-config/wiki",
+        "email": "support@ahnames.com"
     },
     "authors": [
         {
@@ -22,10 +22,9 @@
             "homepage": "https://hipanel.com/"
         }
     ],
-    "require": [],
     "autoload": {
         "psr-4": {
-            "ahnames\\hidev\\config\\": ""
+            "ahnames\\hidev\\config\\": "src"
         }
     }
 }
