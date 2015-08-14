@@ -1,12 +1,11 @@
-parent:
-    github:         ahnames/hidev-config
-
 package:
     name:           hidev-config
     namespace:      ahnames\hidev\config
     label:          AHnamesHiDevConfig
-    title:          AHnames's config for HiDev
-    type:           project
+    title:          AHnames general hidev config
+    type:           yii2-extension
     keywords:       ahnames, hidev, config
     year:           2015
 
+parent:
+    ahnames/hidev-config-php:   "*@dev"
