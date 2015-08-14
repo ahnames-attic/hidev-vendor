@@ -7,13 +7,13 @@
         "hidev",
         "config"
     ],
-    "homepage": "https://github.com//hidev-config",
-    "license": "No license",
+    "homepage": "https://github.com/ahnames/hidev-config",
+    "license": "BSD-3-Clause",
     "support": {
+        "email": "support@ahnames.com",
         "source": "https://github.com/ahnames/hidev-config",
         "issues": "https://github.com/ahnames/hidev-config/issues",
-        "wiki": "https://github.com/ahnames/hidev-config/wiki",
-        "email": "support@ahnames.com"
+        "wiki": "https://github.com/ahnames/hidev-config/wiki"
     },
     "authors": [
         {
