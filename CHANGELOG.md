@@ -3,6 +3,11 @@ ahnames/hidev-config changelog
 
 ## Under development
 
+- Removed to ahnames/hidev-config-php, used hiqdev/hidev-config-php
+- Changed to No license
+
+## 0.0.1 2015-08-14
+
 - Added basics
 - Inited
 

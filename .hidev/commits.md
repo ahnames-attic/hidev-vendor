@@ -3,6 +3,14 @@ ahnames/hidev-config commits history
 
 ## Under development
 
+- Removed to ahnames/hidev-config-php, used hiqdev/hidev-config-php
+    - 80a59ef 2015-08-17 * .hidev/config.yml: * requires used hiqdev/hidev-config-php and include (sol@hiqdev.com)
+- Changed to No license
+    - ddb2f93 2015-08-17 changed to No license (sol@hiqdev.com)
+    - e51a2e3 2015-08-17 changed to No license (sol@hiqdev.com)
+
+## 0.0.1 2015-08-14
+
 - Added basics
     - 27868d3 2015-08-14 hideved, looks good (sol@hiqdev.com)
     - 1aac69b 2015-08-14 * config.yml: + default license, - default goals (sol@hiqdev.com)
