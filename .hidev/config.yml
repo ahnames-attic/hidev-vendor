@@ -8,5 +8,7 @@ package:
     year:           2015
 
 require:
-    ahnames/hidev-config:       "*@dev"
-    ahnames/hidev-config-php:   "*@dev"
+    hiqdev/hidev-config-php:   "*@dev"
+
+include:
+    - src/config.yml
