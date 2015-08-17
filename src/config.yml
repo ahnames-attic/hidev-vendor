@@ -3,7 +3,6 @@ vendor:
     title:      AHnames
     homepage:   https://ahnames.com/
     email:      support@ahnames.com
-    license:    BSD-3-Clause
     authors:
         'Andrii Vasyliev':
             email:      sol@hiqdev.com
