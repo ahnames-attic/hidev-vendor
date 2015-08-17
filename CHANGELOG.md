@@ -3,6 +3,7 @@ ahnames/hidev-config changelog
 
 ## Under development
 
+- Changed: php-cs-fixed
 - Removed to ahnames/hidev-config-php, used hiqdev/hidev-config-php
 - Changed to No license
 

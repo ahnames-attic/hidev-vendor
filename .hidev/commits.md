@@ -3,6 +3,8 @@ ahnames/hidev-config commits history
 
 ## Under development
 
+- Changed: php-cs-fixed
+    - 40b4e86 2015-08-17 php-cs-fixed (sol@hiqdev.com)
 - Removed to ahnames/hidev-config-php, used hiqdev/hidev-config-php
     - 80a59ef 2015-08-17 * .hidev/config.yml: * requires used hiqdev/hidev-config-php and include (sol@hiqdev.com)
 - Changed to No license
