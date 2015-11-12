@@ -1,14 +1,22 @@
 package:
     name:           hidev-config
     namespace:      ahnames\hidev\config
-    label:          AHnamesHiDevConfig
-    title:          AHnames general hidev config
+    headline:       AHnames HiDev Config
+    title:          AHnames vendor configuration for HiDev
     type:           yii2-extension
     keywords:       ahnames, hidev, config
     year:           2015
+    description:    |
+        Contains information about AHnames:
+        * general data: vendor name and company title
+        * contact data: email, forum, github page
+        * authors data: names, emails, github and home pages
+        * default license: No license
+
+        See [src/config.yml](src/config.yml).
 
 require:
-    hiqdev/hidev-config-php:   "*@dev"
+    hiqdev/hidev-config-php:   "*"
 
 include:
     - src/config.yml

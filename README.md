@@ -1,10 +1,18 @@
-AHnames general hidev config
-----------------------------
+AHnames HiDev Config
+====================
 
-AHnames general hidev config
+**AHnames vendor configuration for HiDev**
 
-[![Latest Stable Version](https://poser.pugx.org/ahnames/hidev-config/v/stable.png)](https://packagist.org/packages/ahnames/hidev-config)
-[![Total Downloads](https://poser.pugx.org/ahnames/hidev-config/downloads.png)](https://packagist.org/packages/ahnames/hidev-config)
+[![Latest Stable Version](https://poser.pugx.org/ahnames/hidev-config/v/stable)](//packagist.org/packages/ahnames/hidev-config)
+[![Total Downloads](https://poser.pugx.org/ahnames/hidev-config/downloads)](//packagist.org/packages/ahnames/hidev-config)
+
+Contains information about AHnames:
+* general data: vendor name and company title
+* contact data: email, forum, github page
+* authors data: names, emails, github and home pages
+* default license: No license
+
+See [src/config.yml](src/config.yml).
 
 ## Installation
 
@@ -24,8 +32,9 @@ or add
 
 to the require section of your composer.json.
 
-## Licence
+## License
 
-[No license](http://choosealicense.com/licenses/no-license)
+This project is released under the terms of the No license [license](https://github.com/ahnames/hidev-config/blob/master/LICENSE).
+Read more [here](http://choosealicense.com/licenses/no-license).
 
 Copyright © 2015, AHnames (https://ahnames.com/)

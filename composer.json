@@ -1,7 +1,7 @@
 {
     "name": "ahnames/hidev-config",
     "type": "yii2-extension",
-    "description": "AHnames general hidev config",
+    "description": "AHnames vendor configuration for HiDev",
     "keywords": [
         "ahnames",
         "hidev",

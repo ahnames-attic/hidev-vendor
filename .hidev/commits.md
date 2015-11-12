@@ -3,6 +3,12 @@ ahnames/hidev-config commits history
 
 ## Under development
 
+
+## 0.0.3 2015-08-17
+
+
+## 0.0.2 2015-08-17
+
 - Changed: php-cs-fixed
     - 40b4e86 2015-08-17 php-cs-fixed (sol@hiqdev.com)
 - Removed to ahnames/hidev-config-php, used hiqdev/hidev-config-php
