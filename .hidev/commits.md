@@ -4,7 +4,7 @@ ahnames/hidev-config commits history
 ## Under development
 
 
-## 0.0.3 2015-08-17
+## 0.1.0 2015-11-12
 
 - Fixed: updated according to new HiDev features
     - 8588733 2015-11-12 php-cs-fixed (sol@hiqdev.com)
