@@ -1,7 +1,7 @@
 <?php
 
 /*
- * AHnames general hidev config
+ * AHnames vendor configuration for HiDev
  *
  * @link      https://github.com/ahnames/hidev-config
  * @package   hidev-config
