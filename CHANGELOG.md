@@ -3,6 +3,7 @@ ahnames/hidev-vendor changelog
 
 ## 0.3.0 2016-02-16
 
+- Changed package to `ahnames/hidev-vendor`
 - Fixed: updated to latest HiDev features
 
 ## 0.1.0 2015-11-12

@@ -3,6 +3,8 @@ ahnames/hidev-vendor commits history
 
 ## 0.3.0 2016-02-16
 
+- Changed package to `ahnames/hidev-vendor`
+    - bacba05 2016-02-16 changed package name to `hidev-vendor` (sol@hiqdev.com)
 - Fixed: updated to latest HiDev features
     - 0cca9ab 2016-02-16 fixed composer.json: + yii2-extraconfig (sol@hiqdev.com)
     - 4c196d4 2016-02-16 rehideved (sol@hiqdev.com)
