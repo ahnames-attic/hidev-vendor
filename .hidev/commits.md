@@ -1,6 +1,12 @@
 ahnames/hidev-config commits history
 ------------------------------------
 
+## Under development
+
+- Fixed: updated to latest HiDev features
+    - 4c196d4 2016-02-16 rehideved (sol@hiqdev.com)
+    - fbb7d97 2016-02-16 inited tests (sol@hiqdev.com)
+
 ## 0.1.0 2015-11-12
 
 - Fixed: updated according to new HiDev features

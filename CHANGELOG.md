@@ -1,6 +1,10 @@
 ahnames/hidev-config changelog
 ------------------------------
 
+## Under development
+
+- Fixed: updated to latest HiDev features
+
 ## 0.1.0 2015-11-12
 
 - Fixed: updated according to new HiDev features
