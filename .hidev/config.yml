@@ -1,6 +1,6 @@
 package:
     type:           yii2-extension
-    name:           hidev-config
+    name:           hidev-vendor
     namespace:      ahnames\hidev\vendor
     headline:       AHnames HiDev Config
     title:          AHnames vendor configuration for HiDev

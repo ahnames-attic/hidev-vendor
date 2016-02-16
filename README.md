@@ -5,9 +5,9 @@ AHnames HiDev Config
 
 [![Latest Stable Version](https://poser.pugx.org/ahnames/hidev-vendor/v/stable)](https://packagist.org/packages/ahnames/hidev-vendor)
 [![Total Downloads](https://poser.pugx.org/ahnames/hidev-vendor/downloads)](https://packagist.org/packages/ahnames/hidev-vendor)
-[![Build Status](https://img.shields.io/travis/ahnames/hidev-config.svg)](https://travis-ci.org/ahnames/hidev-config)
-[![Code Coverage](https://scrutinizer-ci.com/g/ahnames/hidev-config/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/ahnames/hidev-config/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ahnames/hidev-config/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ahnames/hidev-config/?branch=master)
+[![Build Status](https://img.shields.io/travis/ahnames/hidev-vendor.svg)](https://travis-ci.org/ahnames/hidev-vendor)
+[![Code Coverage](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/?branch=master)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
@@ -29,13 +29,13 @@ The preferred way to install this yii2-extension is through [composer](http://ge
 Either run
 
 ```sh
-php composer.phar require "ahnames/hidev-config"
+php composer.phar require "ahnames/hidev-vendor"
 ```
 
 or add
 
 ```json
-"ahnames/hidev-config": "*"
+"ahnames/hidev-vendor": "*"
 ```
 
 to the require section of your composer.json.

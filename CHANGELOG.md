@@ -1,4 +1,4 @@
-ahnames/hidev-config changelog
+ahnames/hidev-vendor changelog
 ------------------------------
 
 ## 0.3.0 2016-02-16

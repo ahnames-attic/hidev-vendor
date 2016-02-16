@@ -1,4 +1,4 @@
-ahnames/hidev-config commits history
+ahnames/hidev-vendor commits history
 ------------------------------------
 
 ## 0.3.0 2016-02-16
