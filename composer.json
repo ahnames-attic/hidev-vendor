@@ -1,19 +1,20 @@
 {
-    "name": "ahnames/hidev-config",
+    "name": "ahnames/hidev-vendor",
     "type": "yii2-extension",
     "description": "AHnames vendor configuration for HiDev",
     "keywords": [
         "ahnames",
         "hidev",
+        "vendor",
         "config"
     ],
     "homepage": "https://github.com/ahnames/hidev-config",
     "license": "No license",
     "support": {
         "email": "support@ahnames.com",
-        "source": "https://github.com/ahnames/hidev-config",
-        "issues": "https://github.com/ahnames/hidev-config/issues",
-        "wiki": "https://github.com/ahnames/hidev-config/wiki"
+        "source": "https://github.com/ahnames/hidev-vendor",
+        "issues": "https://github.com/ahnames/hidev-vendor/issues",
+        "wiki": "https://github.com/ahnames/hidev-vendor/wiki"
     },
     "authors": [
         {
@@ -24,7 +25,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ahnames\\hidev\\config\\": "src"
+            "ahnames\\hidev\\vendor\\": "src"
         }
     }
 }
