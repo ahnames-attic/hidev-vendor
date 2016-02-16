@@ -1,9 +1,10 @@
 ahnames/hidev-config commits history
 ------------------------------------
 
-## Under development
+## 0.3.0 2016-02-16
 
 - Fixed: updated to latest HiDev features
+    - 0cca9ab 2016-02-16 fixed composer.json: + yii2-extraconfig (sol@hiqdev.com)
     - 4c196d4 2016-02-16 rehideved (sol@hiqdev.com)
     - fbb7d97 2016-02-16 inited tests (sol@hiqdev.com)
 
