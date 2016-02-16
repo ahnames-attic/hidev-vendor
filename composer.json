@@ -27,5 +27,8 @@
         "psr-4": {
             "ahnames\\hidev\\vendor\\": "src"
         }
+    },
+    "extra": {
+        "yii2-extraconfig": "src/yii2-extraconfig.php"
     }
 }
