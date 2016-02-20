@@ -4,7 +4,7 @@ vendor:
     github:     https://github.com/ahnames
     homepage:   https://ahnames.com/
     email:      support@ahnames.com
-    license:    ''
+    license:    proprietary
     authors:
         hiqsol:
             name:       Andrii Vasyliev

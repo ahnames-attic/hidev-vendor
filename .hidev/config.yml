@@ -1,10 +1,10 @@
 package:
     type:           yii2-extension
     name:           hidev-vendor
-    namespace:      ahnames\hidev\vendor
-    headline:       AHnames HiDev Config
     title:          AHnames vendor configuration for HiDev
+    headline:       AHnames HiDev Config
     keywords:       ahnames, hidev, vendor, config
+    namespace:      ahnames\hidev\vendor
     description:    |
         [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
