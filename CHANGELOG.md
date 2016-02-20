@@ -1,6 +1,10 @@
 ahnames/hidev-vendor changelog
 ------------------------------
 
+## 0.3.1 2016-02-20
+
+- Changed to proprietary license
+
 ## 0.3.0 2016-02-16
 
 - Changed package to `ahnames/hidev-vendor`

@@ -1,6 +1,11 @@
 ahnames/hidev-vendor commits history
 ------------------------------------
 
+## 0.3.1 2016-02-20
+
+- Changed to proprietary license
+    - 7bb229e 2016-02-20 changed to proprietary license (sol@hiqdev.com)
+
 ## 0.3.0 2016-02-16
 
 - Changed package to `ahnames/hidev-vendor`
