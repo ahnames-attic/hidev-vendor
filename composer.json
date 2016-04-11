@@ -29,6 +29,8 @@
         }
     },
     "extra": {
-        "yii2-extraconfig": "src/yii2-extraconfig.php"
+        "extension-plugin": {
+            "hidev-config": "src/hidev-config.php"
+        }
     }
 }
