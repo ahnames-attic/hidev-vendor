@@ -6,8 +6,9 @@ AHnames HiDev Config
 [![Latest Stable Version](https://poser.pugx.org/ahnames/hidev-vendor/v/stable)](https://packagist.org/packages/ahnames/hidev-vendor)
 [![Total Downloads](https://poser.pugx.org/ahnames/hidev-vendor/downloads)](https://packagist.org/packages/ahnames/hidev-vendor)
 [![Build Status](https://img.shields.io/travis/ahnames/hidev-vendor.svg)](https://travis-ci.org/ahnames/hidev-vendor)
-[![Code Coverage](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/?branch=master)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/ahnames/hidev-vendor.svg)](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/ahnames/hidev-vendor.svg)](https://scrutinizer-ci.com/g/ahnames/hidev-vendor/)
+[![Dependency Status](https://www.versioneye.com/php/ahnames:hidev-vendor/dev-master/badge.svg)](https://www.versioneye.com/php/ahnames:hidev-vendor/dev-master)
 
 [HiDev](https://github.com/hiqdev/hidev) is a task runner, code generator and build tool for easier continuos integration.
 
@@ -18,7 +19,7 @@ Provides AHnames information and settings:
 * general data: vendor name and company title
 * contact data: email, forum, github page
 * authors data: names, emails, github and home pages
-* default license: No license
+* default license: proprietary
 
 See [src/config.yml](src/config.yml).
 

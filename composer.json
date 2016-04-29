@@ -23,6 +23,13 @@
             "homepage": "https://hipanel.com/"
         }
     ],
+    "require": {
+        "hiqdev/composer-extension-plugin": "<2.0"
+    },
+    "require-dev": {
+        "hiqdev/hidev-php": "<2.0",
+        "hiqdev/hidev": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "ahnames\\hidev\\vendor\\": "src"
@@ -32,5 +39,11 @@
         "extension-plugin": {
             "hidev-config": "src/hidev-config.php"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.hiqdev.com"
+        }
+    ]
 }

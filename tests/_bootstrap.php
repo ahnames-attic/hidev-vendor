@@ -3,9 +3,9 @@
 /*
  * AHnames vendor configuration for HiDev
  *
- * @link      https://github.com/ahnames/hidev-config
- * @package   hidev-config
- * @license   No license
+ * @link      https://github.com/ahnames/hidev-vendor
+ * @package   hidev-vendor
+ * @license   proprietary
  * @copyright Copyright (c) 2015-2016, AHnames (https://ahnames.com/)
  */
 
