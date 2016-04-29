@@ -1,6 +1,12 @@
 ahnames/hidev-vendor commits history
 ------------------------------------
 
+## 0.3.2 2016-04-29
+
+- Changed: redone `yii2-extraconfig` to `hidev-config`
+    - 0ae0c8d 2016-04-29 rehideved (sol@hiqdev.com)
+    - 7b0f92f 2016-04-11 redone yii2-extraconfig -> `hidev-config` (sol@hiqdev.com)
+
 ## 0.3.1 2016-02-20
 
 - Changed to proprietary license
