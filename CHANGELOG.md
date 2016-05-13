@@ -1,6 +1,10 @@
 ahnames/hidev-vendor changelog
 ------------------------------
 
+## 0.4.0 2016-05-13
+
+- Changed: rearranged configs
+
 ## 0.3.2 2016-04-29
 
 - Changed: redone `yii2-extraconfig` to `hidev-config`
