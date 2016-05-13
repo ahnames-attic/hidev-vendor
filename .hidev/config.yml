@@ -20,4 +20,4 @@ package:
         See [src/config.yml](src/config.yml).
 
 include:
-    - src/config.yml
+    - src/config/goals.yml
